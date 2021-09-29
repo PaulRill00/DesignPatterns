@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace Observer
+﻿namespace Observer
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             Observer observer = new ConcreteObserver();
             Subject subject = new ConcreteSubject();

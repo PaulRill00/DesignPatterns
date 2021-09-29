@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Observer
+﻿namespace Observer
 {
-    class ConcreteSubject : Subject
+    internal class ConcreteSubject : Subject
     {
     }
 }

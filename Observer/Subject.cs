@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Observer
 {
-    abstract class Subject
+    internal abstract class Subject
     {
-        private List<Observer> Observers { get; set; }
+        private List<Observer> Observers { get; }
 
         protected Subject()
         {

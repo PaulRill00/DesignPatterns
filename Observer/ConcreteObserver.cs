@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Observer
 {
-    class ConcreteObserver : Observer
+    internal class ConcreteObserver : Observer
     {
         public override void Update()
         {

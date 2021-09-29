@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Observer
+﻿namespace Observer
 {
-    abstract class Observer
+    internal abstract class Observer
     {
         public abstract void Update();
     }
