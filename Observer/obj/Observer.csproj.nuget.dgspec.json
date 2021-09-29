@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\PaulRill\\School\\DesignPatterns\\DesignPatterns\\Observer\\Observer.csproj": {}
+    "D:\\Users\\PaulRill\\School\\DesignPatterns\\Observer\\Observer.csproj": {}
   },
   "projects": {
-    "D:\\Users\\PaulRill\\School\\DesignPatterns\\DesignPatterns\\Observer\\Observer.csproj": {
+    "D:\\Users\\PaulRill\\School\\DesignPatterns\\Observer\\Observer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\PaulRill\\School\\DesignPatterns\\DesignPatterns\\Observer\\Observer.csproj",
+        "projectUniqueName": "D:\\Users\\PaulRill\\School\\DesignPatterns\\Observer\\Observer.csproj",
         "projectName": "Observer",
-        "projectPath": "D:\\Users\\PaulRill\\School\\DesignPatterns\\DesignPatterns\\Observer\\Observer.csproj",
+        "projectPath": "D:\\Users\\PaulRill\\School\\DesignPatterns\\Observer\\Observer.csproj",
         "packagesPath": "C:\\Users\\Paul Rill\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\PaulRill\\School\\DesignPatterns\\DesignPatterns\\Observer\\obj\\",
+        "outputPath": "D:\\Users\\PaulRill\\School\\DesignPatterns\\Observer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paul Rill\\AppData\\Roaming\\NuGet\\NuGet.Config",
